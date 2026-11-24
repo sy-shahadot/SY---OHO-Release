@@ -2,7 +2,7 @@
 
 One-hand gestures: thin, almost invisible handles on the screen edges. Swipe in from a handle to run an action.
 
-**Latest version:** v1.0.5 · **Android:** 12 or newer · No ads, no tracking, no internet permission.
+**Latest version:** v1.0.14 · **Android:** 12 or newer · No ads, no tracking, no internet permission.
 
 
 
